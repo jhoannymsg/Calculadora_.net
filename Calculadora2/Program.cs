@@ -57,7 +57,7 @@ class Triangulo : Figura
         return (Base * Altura) / 2; // Fórmula del área de un triángulo
     }
 }
-
+//Me gustan las salchipapas
 class Program
 {
     static void Main(string[] args)
