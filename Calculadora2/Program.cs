@@ -58,6 +58,7 @@ class Triangulo : Figura
     }
 }
 //Me gustan las salchipapas
+//Pues a mi me gusta dormir
 class Program
 {
     static void Main(string[] args)
